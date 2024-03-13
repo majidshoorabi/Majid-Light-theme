@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.majidshoorabi.majidlighttheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
